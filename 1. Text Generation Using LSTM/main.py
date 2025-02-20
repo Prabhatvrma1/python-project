@@ -1,4 +1,4 @@
-#use this when we are goint to train the model
+# use this when we are goint to train the model
 # for i in range(0, len(text) - seq_length, step_size):
 #     sentences.append(text[i: i + seq_length])
 #     next_char.append(text[i + seq_length])
